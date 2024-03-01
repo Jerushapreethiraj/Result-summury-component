@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(index.html)
+- Solution URL:(Result-summury-component/index.html)
 - Live Site URL: (https://jerushapreethiraj.github.io/Result-summury-component/)
 
 ## My process
